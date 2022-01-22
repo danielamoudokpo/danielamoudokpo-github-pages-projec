@@ -12,3 +12,11 @@ $ npm install
 # Local Development
 
 $ npm run start
+
+# Creator
+
+Name: Amoudokpo Kokou Daniel 
+
+Class : IW1
+
+
